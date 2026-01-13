@@ -1,0 +1,21 @@
+# Terraform execution cache
+.terraform/
+
+# Terraform state files (REAL INFRA STATE)
+*.tfstate
+*.tfstate.*
+
+# Variable values (may contain secrets)
+terraform.tfvars
+terraform.tfvars.json
+
+# SSH / key files
+*.pem
+*.pub
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
