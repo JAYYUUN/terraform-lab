@@ -120,3 +120,5 @@ Launch Template 기반으로 EC2를 생성하고 Auto Scaling Group과 연결하
 - 트래픽 기반 자동 확장을 구현한
 
 운영 환경을 고려한 고가용성 아키텍처를 설계하는 것을 목표로 한다.
+
+블로그 작업 : https://a-gentle-breeze.tistory.com/category/WAF-CloudFront-ALB-EC2
